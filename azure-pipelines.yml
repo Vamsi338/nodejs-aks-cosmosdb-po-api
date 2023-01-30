@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Defualt
+  name: Default
 
 
 steps:
